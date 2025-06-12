@@ -1,0 +1,11 @@
+---
+streamlit:
+  title: "Capgemini JSP Agent"
+  tab_title: "Capgemini JSP Agent"
+  logo: "./streamlit_app/images/Capgemini-Logo.png"
+  page_icon: "./streamlit_app/images/Capgemini-Logo.png"
+  avatar: "./streamlit_app/images/openai.png"
+  assistant_intro_message: "Hi there, I'm an extremely simple JSP search service powered by chat gpt-4o. How can I help?" 
+  about: "JSP Agent, author: Capgemini"
+azure:
+  dummy: "test"
